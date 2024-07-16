@@ -1,0 +1,1 @@
+jumpbuffer = 0;

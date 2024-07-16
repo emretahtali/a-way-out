@@ -1,0 +1,1 @@
+if (room == r1) scrLoadPos(0);

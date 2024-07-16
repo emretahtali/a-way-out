@@ -1,0 +1,1 @@
+menulock = !menulock;

@@ -1,0 +1,1 @@
+scrLoadPos(0);
