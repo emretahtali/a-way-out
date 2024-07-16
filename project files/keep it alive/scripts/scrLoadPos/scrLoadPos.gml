@@ -9,6 +9,7 @@ function scrLoadPos() {
 	if (file_exists("save.sav"))
 	{
 		ini_open("save.sav");
+		
 		room_ = ini_read_real("don't cheat please. -just joking do if you want :D", "room", rMenu);
 		x_ = ini_read_real("don't cheat please. -just joking do if you want :D", "x", 0);
 		y_ = ini_read_real("don't cheat please. -just joking do if you want :D", "y", 0);

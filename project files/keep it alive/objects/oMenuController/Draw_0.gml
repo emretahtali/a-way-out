@@ -25,7 +25,7 @@ if (!menulock)
 	{
 		switch (i)
 		{
-			case 0: scrFade(scrLoadPos(0)); break;
+			case 0: scrLoadPos(0); break;
 			case 1: scrFade(room_next(room)); break;
 			//case 1: scrFade(r1); break;
 			case 2: game_end(); break;

@@ -23,7 +23,7 @@ else if (i == maxi)
 		global.spawn_x = 256;
 		global.spawn_y = 848;
 	}
-	room = target;
+	room_goto(target);
 }
 
 if (lock) 
